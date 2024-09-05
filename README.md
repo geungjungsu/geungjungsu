@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <!--
 **geungjungsu/geungjungsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
