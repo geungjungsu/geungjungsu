@@ -2,7 +2,7 @@
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) <br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white) 
 ![Microsoft Excel](https://img.shields.io/badge/microsoftexcel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white) 
