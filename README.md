@@ -1,5 +1,6 @@
 ## Hi there 👋
-![Neon sign](https://github.com/user-attachments/assets/ec3664b9-e6c5-4932-a361-9a1055ea6bc6)
+![Neon sign (1)](https://github.com/user-attachments/assets/a17389bd-c1e6-47e3-ad41-673bac8d5994)
+
 
 
 
