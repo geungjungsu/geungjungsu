@@ -1,4 +1,3 @@
-## Hi there 👋
 <div align="center">
 <img src="https://github.com/user-attachments/assets/bee18770-beac-4605-b912-5321d172c3a7" alt="Neon sign (1)">
 </div>
