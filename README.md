@@ -1,4 +1,11 @@
 ## Hi there 👋
+![Neon sign](https://github.com/user-attachments/assets/ec3664b9-e6c5-4932-a361-9a1055ea6bc6)
+
+
+
+
+
+
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks** <br/>
