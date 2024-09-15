@@ -1,5 +1,4 @@
 <div align="center">
-<img src="https://github.com/user-attachments/assets/bee18770-beac-4605-b912-5321d172c3a7" alt="Neon sign (1)">
 <img src="https://github.com/user-attachments/assets/ac8ac384-f07e-450a-865b-ef29e5f79620" alt="Neon sign (2)">
 </div>
 
