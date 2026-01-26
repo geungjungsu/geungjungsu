@@ -58,7 +58,7 @@
 - **목표**: 교육 운영 데이터 기반 의사결정 지원
 - **내용**: 핵심 지표 시각화 및 실시간 대시보드 구축
 - **Tools**: 
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white) ![Google Looker](https://img.shields.io/badge/Google%20Looker-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white) ![Google Looker](https://img.shields.io/badge/GoogleLooker-E97627.svg?&style=flat-square&logo=GoogleLooker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white) ![Google Looker](https://img.shields.io/badge/GoogleLooker-E97627.svg?&style=flat-square&logo=GoogleLooker&logoColor=white)
 
 
 
