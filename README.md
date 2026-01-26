@@ -35,7 +35,7 @@
 ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=for-the-badge)
 ![AWS RDS](https://img.shields.io/badge/AWS%20RDS-527FFF.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 📈 Data Visualization & BI
+### 📈 Data Visualization
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=for-the-badge&logo=tableau&logoColor=white)
 ![Google Looker](https://img.shields.io/badge/Google%20Looker-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
 
