@@ -15,6 +15,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75.svg?&style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 📊 Statistics & Hypothesis Testing
+![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
+![SAS](https://img.shields.io/badge/SAS-0066A1.svg?&style=for-the-badge)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6.svg?&style=for-the-badge&logo=scipy&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-5A5A5A.svg?&style=for-the-badge)
 
@@ -38,8 +40,6 @@
 ![Google Looker](https://img.shields.io/badge/Google%20Looker-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
 
 ### 🧩 Others
-![R](https://img.shields.io/badge/R-276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
-![SAS](https://img.shields.io/badge/SAS-0066A1.svg?&style=for-the-badge)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346.svg?&style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A.svg?&style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)
 
