@@ -62,15 +62,12 @@
 
 
 
----
-
 ### 2️⃣ 은행 이탈 고객 예측 프로젝트 (Bank Churn Data)
 - **목표**: 고객 이탈 요인 분석 및 예측
 - **내용**: 전처리 단계별 모델링 비교 및 변수 중요도 기반 인사이트 도출
 - **Tools**:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
----
 
 ### 3️⃣ AARRR 프레임워크 기반 퍼널 분석 (Brazil Olist Data)
 - **목표**: 유저 퍼널 단계별 전환 구조 분석
