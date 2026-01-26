@@ -45,6 +45,30 @@
 
 
 
+## 📌 Major Projects
+
+### 1️⃣ 교육 시장 데이터 대시보드 제작 (Internship)
+- **목표**: 교육 운영 데이터 기반 의사결정 지원
+- **내용**: 핵심 지표 시각화 및 실시간 대시보드 구축
+- **Tools**: 
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white) ![Google Looker](https://img.shields.io/badge/Google%20Looker-4285F4.svg?&style=for-the-badge&logo=google&logoColor=white)
+
+
+---
+
+### 2️⃣ 은행 이탈 고객 예측 프로젝트 (Bank Churn Data)
+- **목표**: 고객 이탈 요인 분석 및 예측
+- **내용**: 전처리 단계별 모델링 비교 및 변수 중요도 기반 인사이트 도출
+- **Tools**:
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
+
+---
+
+### 3️⃣ AARRR 프레임워크 기반 퍼널 분석 (Brazil Olist Data)
+- **목표**: 유저 퍼널 단계별 전환 구조 분석
+- **내용**: AARRR 지표 정의 및 단계별 병목 구간 도출
+- **Tools**:
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white)
 
 
 
