@@ -60,20 +60,26 @@
 - **Tools**: 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white) ![Google Looker](https://img.shields.io/badge/GoogleLooker-E97627.svg?&style=flat-square&logo=GoogleLooker&logoColor=white)
 
+### 2️⃣ AARRR 프레임워크 기반 퍼널 분석 (Brazil Olist Data)
+- **목표**: 유저 퍼널 단계별 전환 구조 분석
+- **내용**: AARRR 지표 정의 및 단계별 병목 구간 도출
+- **Tools**:
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white)
 
+### 3️⃣ 게임 강화 이벤트 시기 최적화 프로젝트(Game Event Timing Optimization)
+- **목표**: 유저 참여 및 매출 극대화를 위한 최적 이벤트 시기 도출
+- **내용**: 이벤트 기간별 유저 행동 데이터 분석 및 이벤트 핵심 타겟 도출을 통한 시기 최적화
+- **Tools**:
+- ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white)
 
-### 2️⃣ 은행 이탈 고객 예측 프로젝트 (Bank Churn Data)
+### 4️⃣ 은행 이탈 고객 예측 프로젝트 (Bank Churn Data)
 - **목표**: 고객 이탈 요인 분석 및 예측
 - **내용**: 전처리 단계별 모델링 비교 및 변수 중요도 기반 인사이트 도출
 - **Tools**:
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white)
 
 
-### 3️⃣ AARRR 프레임워크 기반 퍼널 분석 (Brazil Olist Data)
-- **목표**: 유저 퍼널 단계별 전환 구조 분석
-- **내용**: AARRR 지표 정의 및 단계별 병목 구간 도출
-- **Tools**:
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57.svg?&style=flat-square) ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=tableau&logoColor=white)
+
 
 
 
